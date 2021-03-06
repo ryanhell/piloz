@@ -24,9 +24,11 @@ const MobileNav = () => {
           <p>
             Call for immediate. Email for definate. I genuinely look forward to speaking with you.{" "}
           </p>
+          <span>Ryan Hell </span>
+          <p>Columbia PA 17512</p>
           <p>
-            <a href="mailto:ryanbrooklyn2020@gmail.com">email</a> <br />{" "}
-            <a href="tel:267-777-2344">phone</a>
+            <a href="mailto:ryanbrooklyn2020@gmail.com">email me</a> <br />{" "}
+            <a href="tel:267-777-2344">phone me</a>
           </p>
           <div className="side-menu__social">
             <a href="#">
