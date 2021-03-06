@@ -13,26 +13,6 @@ const NavLinksInner = () => {
           <a>Home</a>
         </Link>
       </li>
-      <li>
-        <Link href="/#features">
-          <a>Features</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/#pricing">
-          <a>Pricing</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/#testimonials">
-          <a>Testimonials</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/#screens">
-          <a>Screens</a>
-        </Link>
-      </li>
       <li className="dropdown">
         <Link href="/#blog">
           <a>News</a>

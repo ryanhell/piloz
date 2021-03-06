@@ -8,7 +8,7 @@ import Subscribe from "@components/subscribe";
 import Footer from "@components/footer";
 const Blog = () => {
   return (
-    <Layout pageTitle="Blog Page || Piloz React Next Template">
+    <Layout pageTitle="Ryan Hell">
       <HeaderInner />
       <PageHeader title="Blog Page" crumbTitle="Blog Page" />
       <BlogPage />

@@ -1406,8 +1406,7 @@ li {
 
 .banner-shape-1 {
   position: absolute;
-  top: 30px;
-  left: 0;
+  width: 100%;
 }
 
 .banner-shape-2 {
@@ -1432,8 +1431,8 @@ li {
   position: absolute;
   top: -280px;
   right: -525px;
-  height: 993px;
-  width: 1167px;
+  height: 500px;
+  width: auto;
   z-index: -1;
 }
 
@@ -1449,10 +1448,13 @@ li {
   margin: 0;
   letter-spacing: -0.02em;
   font-family: var(--heading-font);
+  text-shadow: 2px 2px #000;
+  color: #ffe6e6;
 }
 
 .banner-one__content p {
-  color: #8d8d8d;
+  text-shadow: 2px #000;
+  color: #ffe6e6;
   font-size: 18px;
   margin: 35px 0px 44px;
 }

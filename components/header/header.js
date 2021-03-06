@@ -48,9 +48,7 @@ const Header = () => {
       <header className={`site-header-one stricky site-header-one__fixed-top `}>
         <Container fluid>
           <div className="site-header-one__logo">
-            <a href="/">
-              <img src={logo} width="129" alt="" />
-            </a>
+          <span>Ryan Hell</span>
             <span className="side-menu__toggler">
               <i className="fa fa-bars"></i>
             </span>
@@ -75,7 +73,7 @@ const Header = () => {
         <Container fluid>
           <div className="site-header-one__logo">
             <a href="/">
-              <img src={logo} width="129" alt="" />
+            <span>Ryan Hell</span>
             </a>
             <span className="side-menu__toggler">
               <i className="fa fa-bars"></i>
@@ -86,7 +84,7 @@ const Header = () => {
           </div>
           <div className="main-nav__right">
             <a href="#" className="thm-btn">
-              <span>Download App</span>
+              <span>Resume</span>
             </a>
           </div>
         </Container>

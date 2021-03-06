@@ -1,11 +1,11 @@
 import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
-import bgShape1 from "@images/banner/banner-shape-1-1.png";
-import bgShape2 from "@images/banner/banner-shape-1-2.png";
+import bgShape1 from "@images/animals.png";
+import bgShape2 from "@images/swissArmy.png";
 import bannerBG from "@images/banner/banner-bg-1.png";
 import bannerShape1 from "@images/shapes/banner-1-1.png";
 import bannerShape2 from "@images/banner/banner-shape-1-4.png";
-import image from "@images/banner/banner-img-1.png";
+import image from "@images/bigfoot.png";
 
 const Banner = () => {
   return (
@@ -21,19 +21,16 @@ const Banner = () => {
           <Col xl={6} lg={6}>
             <div className="banner-one__content">
               <h3>
-                We help to
+                Ryan Hell
                 <br />
-                achieve big
-                <br />
-                goals
               </h3>
               <p>
-                Nulla facilisi. Proin felis neque, suscipit egestas erat a tin-{" "}
+                Tradesman, engineer, analyst.{" "}
                 <br />
-                cidunt finibus magna consectetur lacus.
+                Located in Lancaster, PA
               </p>
               <a href="#" className="thm-btn">
-                <span>Discover More</span>
+                <span>Contact</span>
               </a>
             </div>
           </Col>

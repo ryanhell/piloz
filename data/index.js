@@ -1,32 +1,32 @@
 export const SERVICE_DATA = {
   sectionTitle: {
-    title: "Piloz Great Features",
-    text: "Our App Feature Lists"
+    title: "Polytalent",
+    text: "Lancaster, Pennsylvania"
   },
   posts: [
     {
       extraClassName: "",
       icon: "piloz-writing",
-      title: "Easy to edit",
-      text: "Lorem ipsum is are many variations of pass majy."
+      title: "Visual",
+      text: "Visual / Spacial dominent. Worked building things in multiple trades, also a decade of visual assets analysis."
     },
     {
       extraClassName: "bg-2",
       icon: "piloz-shield",
-      title: "Fully secure",
-      text: "Lorem ipsum is are many variations of pass majy."
+      title: "Building",
+      text: "Experience in a variety of manufacturer and production environments. I've worked in carpentry and related construction roles for over 10 years, 3 straight since moving to the East Coast. (Best thing I ever did). I have worked with architects. Realtors. Home owners. I even got to work as a CNC machinest on the 'largest real estate project in US history', Hudson Yards Manhattan. I recently got to work on some old Brownstones in Brooklyn and Harlem, helped out on some beach front condo work in Miami, Boca Raton. Love the history, love the architecture. Like to create things."
     },
     {
       extraClassName: "bg-3",
       icon: "piloz-user",
-      title: "Manage user",
-      text: "Lorem ipsum is are many variations of pass majy."
+      title: "Manager",
+      text: "13 Years of aerospace / tech industry calibre project management experience. Fluent with prominent LEAN, Agile, Sig Sigma, their assorted patterns, third party tools, tool chains, workflow and integrations. As a personal observation, I find myself adhering to the basic concept and rythm of 'SDLC'."
     },
     {
       extraClassName: "bg-4",
       icon: "piloz-gear",
-      title: "Free trial",
-      text: "Lorem ipsum is are many variations of pass majy."
+      title: "Technical",
+      text: "I spent 1/3 of my adult life studying information science and working as a tech consultant and employee in the Greater Seattle area for 10 years. I enjoy building, but I want to manage and improve projects now."
     }
   ]
 };
