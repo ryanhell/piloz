@@ -22,7 +22,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          Features
+          Knowledge
         </ScrollLink>
       </li>
       <li>
