@@ -1,7 +1,11 @@
 import React from "react";
 import { Container } from "react-bootstrap";
 import { Swiper, SwiperSlide } from "swiper/react";
-import brandImage from "@images/resources/brand-1-1.png";
+import brandImage from "@images/branding/bitbucket.png";
+import brandImage2 from "@images/branding/gantt.png";
+import brandImage3 from "@images/branding/jira.png";
+import brandImage4 from "@images/branding/visio.png";
+import brandImage5 from "@images/branding/phoenix.png";
 const Brands = () => {
   const CarouselOptions = {
     slidesPerView: 5,
@@ -21,16 +25,16 @@ const Brands = () => {
             <img src={brandImage} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage2} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage3} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage4} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage5} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
             <img src={brandImage} alt="" />
