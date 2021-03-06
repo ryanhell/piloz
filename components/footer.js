@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import bgImage from "@images/resources/footer-bg-shape-1.png";
-import footerLogo from "@images/resources/footer-logo.png";
+import footerLogo from "@images/logoHell.png";
 
 const Footer = () => {
   const year = new Date().getFullYear();
