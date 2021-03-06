@@ -1448,13 +1448,12 @@ li {
   margin: 0;
   letter-spacing: -0.02em;
   font-family: var(--heading-font);
-  text-shadow: 2px 2px #000;
-  color: #ffe6e6;
+  text-shadow: 2px 2px rgb(31, 179, 224);
+  
 }
 
 .banner-one__content p {
   text-shadow: 2px #000;
-  color: #ffe6e6;
   font-size: 18px;
   margin: 35px 0px 44px;
 }
@@ -1543,6 +1542,7 @@ li {
 }
 
 .banner-image__curvs {
+  display: none;
   position: absolute;
   left: -118px;
   top: -115px;

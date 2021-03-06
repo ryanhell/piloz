@@ -46,7 +46,7 @@ const Footer = () => {
                     <a href="#">Home</a>
                   </li>
                   <li>
-                    <a href="#">Features</a>
+                    <a href="#">Knowledge</a>
                   </li>
                   <li>
                     <a href="#">Pricing</a>
@@ -69,7 +69,7 @@ const Footer = () => {
       <div className="site-footer__bottom">
         <Container className="text-center">
           <p>
-            © copyright {year} by <a href="#">Layerdrops.com</a>
+            © copyright {year} by <a href="#">ryanhell.com, Lancaster, Pennsylvania</a>
           </p>
         </Container>
       </div>

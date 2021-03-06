@@ -331,27 +331,33 @@ export const FAQ_DATA = {
   posts: [
     {
       status: true,
-      title: "Pre and post launch mobile app marketing pitfalls to avoid",
+      title: "What can you build?",
       text:
-        "There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam."
+        "I provide general carpentry, millwork, framing, drywall and painting. I work with software tools, CASE, SQL, Frontend and Backend general KSA, with an ability to conceptualize and prototype or plan / manage scalable solutions for just about anything relating to residential, commercial, construction, industrial manufacturing, marketing and data."
     },
     {
       status: false,
-      title: "Boostup your application traffic is just a step away",
+      title: "What Was the Best Job I Ever Had?",
       text:
-        "There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam."
+        "The jobs where I worked with Architects directly! I discovered over years, I communicate best with someone who knows what they want, and has a higher technical ability."
     },
     {
       status: false,
-      title: "How to update application new features",
+      title: "Whats Your Availability, Ryan?",
       text:
-        "There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam."
+        "I'm always available for email. I also provide consultation, or work ins. If I can jump in and help with anything, or you are not sure; drop me a message!"
     },
     {
       status: false,
-      title: "How to connect with the support to improve app experience",
+      title: "Are You Licensed, Insured, Properly Trained?",
       text:
-        "There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam."
+        "I am insured and hold a valid OSHA 30 certification. I have 5 years of University experience; primarily in the data and information sciences and related Project Management subjects. I've owned two tech startups and a fledgling remodeling / contractor service, as sole proprieter. I was a Union Hod Carrier, and Wildland Firefighter, DNR worker, and carpenter for over a decade."
+    },
+    {
+      status: false,
+      title: "What Is Ryan Looking For?",
+      text:
+        "I am looking for a regular W2 employer who has a need for polytalent. Maybe you are growing or thinking about growing. I want to split time between business development, marketing, design, and work building things. I prefer diverse workloads. "
     }
   ]
 };

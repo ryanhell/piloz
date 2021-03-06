@@ -590,7 +590,8 @@
     line-height: 80px;
 }
 .banner-one__content p {
-    color: #faf3f3;
+    color: #f8f4f4;
+    text-shadow: 2px #000;
     margin: 36px 0px 49px;
 }
 .cta-one__bg-shape-1 {
