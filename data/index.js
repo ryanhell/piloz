@@ -14,12 +14,13 @@ export const SERVICE_DATA = {
       extraClassName: "bg-2",
       icon: "piloz-shield",
       title: "Building",
-      text: "Experience in a variety of manufacturer and production environments. 
+      text: "Experience in a variety of manufacturer and production environments."
+    },
     {
       extraClassName: "bg-3",
       icon: "piloz-user",
       title: "Manager",
-      text: "Project management experience. Fluent with prominent LEAN, Agile, Six Sigma, their assorted patterns, third party tools, tool chains, workflow and integrations."
+      text: "13 Years of aerospace / tech industry calibre project management experience."
     },
     {
       extraClassName: "bg-4",
