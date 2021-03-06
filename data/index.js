@@ -20,7 +20,7 @@ export const SERVICE_DATA = {
       extraClassName: "bg-3",
       icon: "piloz-user",
       title: "Manager",
-      text: "13 Years of aerospace / tech industry calibre project management experience. Fluent with prominent LEAN, Agile, Sig Sigma, their assorted patterns, third party tools, tool chains, workflow and integrations. As a personal observation, I find myself adhering to the basic concept and rythm of 'SDLC'."
+      text: "13 Years of aerospace / tech industry calibre project management experience. Fluent with prominent LEAN, Agile, Six Sigma, their assorted patterns, third party tools, tool chains, workflow and integrations. As a personal observation, I find myself adhering to the basic concept and rythm of 'SDLC'."
     },
     {
       extraClassName: "bg-4",
@@ -33,19 +33,19 @@ export const SERVICE_DATA = {
 
 export const CALL_TO_ACTION_DATA = {
   sectionTitle: {
-    text: "Our App Feature Lists",
-    title: "Powerful App for \n Your Mobile"
+    text: "Better Solutions",
+    title: "Broader Capabilities"
   },
   paragraph:
-    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eufugiat nulla pariatur. Lorem Ipsum is simply dummy text of the printing laborum  perspiciatis unde.",
+    "Do more with less crew. Build and take on larger scale, deeper knowledge and faster paced projects. Less people, more skills.",
   posts: [
     {
-      title: "Responsive \n Design",
+      title: "Mechanicaly Inclined",
       extraClassName: " ",
       icon: "piloz-devices"
     },
     {
-      title: "Online \n Marketing",
+      title: "Technical Experience",
       icon: "piloz-networking",
       extraClassName: "color-2"
     }
@@ -68,21 +68,21 @@ import appFeature1 from "@images/resources/cta-2-moc-1.png";
 
 export const APP_FEATURE_DATA = {
   sectionTitle: {
-    title: "Discover Tools for\nYour Customers",
-    text: "Our App Feature Lists"
+    title: "Unload More Back Office and Field Work",
+    text: "Get back to sales and growing your business."
   },
   image: appFeature1,
   paragraph:
-    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum lorem ipsum is simply free.",
+    "More than a carpenter, and tradesman.",
   options: [
     {
-      label: "Refresing to get such a personal touch."
+      label: "Fully trained MS Office, Visio, MS Project, Gantt."
     },
     {
-      label: "Duis aute irure dolor in reprehenderit in voluptate."
+      label: "Reliable, punctual, fair."
     },
     {
-      label: "Velit esse cillum dolore eu fugiat nulla pariatur."
+      label: "Knowledgable of building code fundementals, architectural work flow patterns, third party tools and pitfuls."
     }
   ],
   button: { link: "#", label: "Discover More" }
