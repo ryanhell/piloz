@@ -23,7 +23,7 @@ const HomeOne = () => {
       <Banner />
       <ServicesHome />
       <CallToAction />
-      
+      <Video />
       <AppFeature />
       
       <TestimonialsHome />

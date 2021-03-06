@@ -59,9 +59,9 @@ export const CALL_TO_ACTION_DATA = {
 import videoBG from "@images/resources/video-bg-1-1.jpg";
 
 export const VIDEO_DATA = {
-  title: "Watch Our Video",
+  title: "Whatever it takes",
   image: videoBG,
-  videoID: "Kl5B6MBAntI"
+  videoID: "c6si8Xp8P-M"
 };
 
 import appFeature1 from "@images/resources/cta-2-moc-1.png";
