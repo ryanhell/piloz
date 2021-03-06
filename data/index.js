@@ -362,7 +362,7 @@ export const FAQ_DATA = {
   ]
 };
 
-import blog1 from "@images/blog/blog-2-1.jpg";
+import blog1 from "@images/portfolio/portico1.jpg";
 import blog2 from "@images/blog/blog-2-2.jpg";
 import blog3 from "@images/blog/blog-2-3.jpg";
 import blog4 from "@images/blog/blog-2-4.jpg";
@@ -379,9 +379,9 @@ export const BLOG_DATA = {
       image: blog1,
       date: "20 May, 2020",
       commentCount: "2",
-      title: "Leverage agile frame works to",
+      title: "Portico Addition",
       text:
-        "There are many people variation of passages of lorem Ipsum available in the majority sed do eius.",
+        "Single handedly designed, built portico addition in Norwood PA.",
       link: {
         path: "/blog-details",
         label: "Read More"

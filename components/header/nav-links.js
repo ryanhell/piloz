@@ -28,18 +28,6 @@ const NavLinks = () => {
       <li>
         <ScrollLink
           activeClass="current"
-          to="pricing"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Pricing
-        </ScrollLink>
-      </li>
-      <li>
-        <ScrollLink
-          activeClass="current"
           to="testimonials"
           spy={true}
           smooth={true}
@@ -47,18 +35,6 @@ const NavLinks = () => {
           duration={500}
         >
           Testimonials
-        </ScrollLink>
-      </li>
-      <li>
-        <ScrollLink
-          activeClass="current"
-          to="screens"
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-        >
-          Screens
         </ScrollLink>
       </li>
       <li className="dropdown">
@@ -70,7 +46,7 @@ const NavLinks = () => {
           offset={-70}
           duration={500}
         >
-          News
+          Projects
         </ScrollLink>
         <button className="dropdown-btn" onClick={handleDropdownStatus}>
           <i className="fa fa-angle-right"></i>

@@ -13,7 +13,6 @@ const BlogPage = () => {
                 image={blogPost.image}
                 extraClassName=" mbt-60"
                 date={blogPost.date}
-                commentCount={blogPost.commentCount}
                 title={blogPost.title}
                 text={blogPost.text}
                 link={blogPost.link}

@@ -5,7 +5,6 @@ const BlogCard = ({
   extraClassName,
   image,
   date,
-  commentCount,
   title,
   text,
   link
@@ -30,9 +29,6 @@ const BlogCard = ({
         <div className="blog-one__meta">
           <a href="#">
             <i className="far fa-calendar-alt"></i> {date}
-          </a>
-          <a href="#">
-            <i className="far fa-comments"></i> {commentCount} comments
           </a>
         </div>
         <h3>
