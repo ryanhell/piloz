@@ -368,6 +368,7 @@
     }
     .banner-shape-1 {
         top: -30px;
+        display: none;
     }
 }
 
