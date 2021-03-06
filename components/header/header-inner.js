@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Container } from "react-bootstrap";
-import logo from "@images/logo-1-1.png";
+import logo from "@images/logo.svg";
 import NavLinksInner from "./nav-links-inner";
 
 const HeaderInner = () => {
@@ -49,7 +49,7 @@ const HeaderInner = () => {
         <Container fluid>
           <div className="site-header-one__logo">
             <a href="/">
-            <span>Ryan Hell</span>
+              <img src={logo} width="129" alt="" />
             </a>
             <span className="side-menu__toggler">
               <i className="fa fa-bars"></i>
@@ -74,8 +74,8 @@ const HeaderInner = () => {
       >
         <Container fluid>
           <div className="site-header-one__logo">
-            <a href="/">
-            <span>Ryan Hell</span>
+          <a href="/">
+              <img src={logo} width="129" alt="" />
             </a>
             <span className="side-menu__toggler">
               <i className="fa fa-bars"></i>
