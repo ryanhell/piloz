@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import bgImage from "@images/resources/footer-bg-shape-1.png";
-import footerLogo from "@images/logo.svg";
 
 const Footer = () => {
   const year = new Date().getFullYear();
@@ -16,7 +15,7 @@ const Footer = () => {
           <Col xl={12}>
             <div className="footer-upper text-center">
               <div className="footer-logo">
-                <img src={footerLogo} alt="Footer Logo" />
+                
               </div>
               <ul className="footer-widget__social">
                 <li>

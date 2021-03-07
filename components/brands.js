@@ -6,6 +6,9 @@ import brandImage2 from "@images/branding/gantt.png";
 import brandImage3 from "@images/branding/jira.png";
 import brandImage4 from "@images/branding/visio.png";
 import brandImage5 from "@images/branding/phoenix.png";
+import brandImage6 from "@images/branding/redmine.png";
+import brandImage7 from "@images/branding/osha.png";
+
 const Brands = () => {
   const CarouselOptions = {
     slidesPerView: 5,
@@ -37,40 +40,40 @@ const Brands = () => {
             <img src={brandImage5} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage6} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage3} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage7} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage5} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
             <img src={brandImage} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage3} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage5} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage6} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage2} alt="" />
+          </SwiperSlide>
+          <SwiperSlide className="item">
+            <img src={brandImage4} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
             <img src={brandImage} alt="" />
           </SwiperSlide>
           <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
-          </SwiperSlide>
-          <SwiperSlide className="item">
-            <img src={brandImage} alt="" />
+            <img src={brandImage6} alt="" />
           </SwiperSlide>
         </Swiper>
       </Container>

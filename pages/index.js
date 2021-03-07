@@ -22,12 +22,13 @@ const HomeOne = () => {
       <Header />
       <Banner />
       <ServicesHome />
+      <Brands />
       <CallToAction />
       <Video />
       <AppFeature />      
       <FAQ />
       <BlogHome />
-      <Brands />
+      
       
       <Footer />
       <MobileNav />

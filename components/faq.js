@@ -7,7 +7,7 @@ const FAQ = () => {
   const { sectionTitle, posts } = FAQ_DATA;
   return (
     <section className="faq-one">
-      <img src={faqShape} className="faq-one-shape-1" alt="" />
+     
       <Container>
         <div className="block-title text-center">
           <p>{sectionTitle.text}</p>

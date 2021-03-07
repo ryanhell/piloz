@@ -333,7 +333,7 @@ export const FAQ_DATA = {
       status: true,
       title: "What can you build?",
       text:
-        "I provide general carpentry, millwork, framing, drywall and painting. I work with software tools, CASE, SQL, Frontend and Backend general KSA, with an ability to conceptualize and prototype or plan / manage scalable solutions for just about anything relating to residential, commercial, construction, industrial manufacturing, marketing and data."
+        "Drywall, framing, cabinetry (including custom millwork in the field), painting, trim / finish work, punchdown list, make safe, Hardie siding, soffit, hardwood, MDF, hem / fir."
     },
     {
       status: false,
@@ -345,7 +345,7 @@ export const FAQ_DATA = {
       status: false,
       title: "Whats Your Availability, Ryan?",
       text:
-        "I'm always available for email. I also provide consultation, or work ins. If I can jump in and help with anything, or you are not sure; drop me a message!"
+        "I'm self employed right now taking on small gigs while looking for a longer term position with a better employer."
     },
     {
       status: false,
