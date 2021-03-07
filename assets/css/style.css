@@ -1745,7 +1745,9 @@ background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, F
   display: block;
   z-index: 1;
 }
-
+.bg-mine {
+  width: 50%;
+}
 .cat_one_moc-bg {
   position: absolute;
   top: 91px;
@@ -2424,7 +2426,9 @@ background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, F
     transform: translate(-50%, -49%) scale(0.8);
   }
 }
-
+.swiper-container {
+  padding: 3px 0px 49px 0px;
+}
 #app-shot-swiper-pagination,
 .app-shot-one .app-shot-one__carousel .owl-dots {
   position: absolute;

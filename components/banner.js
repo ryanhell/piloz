@@ -22,7 +22,7 @@ const Banner = () => {
                 <br />
               </h3>
               <p>
-                Tradesman, engineer, analyst.{" "}
+                Tradesman. Engineer, Analyst.{" "}
                 <br />
                 Located in Lancaster, PA
               </p>

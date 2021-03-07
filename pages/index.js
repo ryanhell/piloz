@@ -28,7 +28,7 @@ const HomeOne = () => {
       <FAQ />
       <BlogHome />
       <Brands />
-      <Subscribe />
+      
       <Footer />
       <MobileNav />
     </Layout>

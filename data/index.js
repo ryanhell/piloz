@@ -64,7 +64,7 @@ export const VIDEO_DATA = {
   videoID: "c6si8Xp8P-M"
 };
 
-import appFeature1 from "@images/super.svg";
+import appFeature1 from "@images/super.jpg";
 
 export const APP_FEATURE_DATA = {
   sectionTitle: {
@@ -79,13 +79,13 @@ export const APP_FEATURE_DATA = {
       label: "Fluent with MS Office, Visio, MS Project, Gantt."
     },
     {
-      label: "Reliable, punctual, fair."
+      label: "Reliable, punctual, fair. Higher level communications."
     },
     {
       label: "Knowledgable of building code fundementals, architectural work flow patterns, third party tools and pitfuls."
     }
   ],
-  button: { link: "#", label: "Discover More" }
+  button: { link: "mailto:ryanbrooklyn2020@gmail.com", label: "message me" }
 };
 
 export const PRICING_DATA = {
