@@ -64,7 +64,7 @@ export const VIDEO_DATA = {
   videoID: "c6si8Xp8P-M"
 };
 
-import appFeature1 from "@images/resources/cta-2-moc-1.png";
+import appFeature1 from "@images/super.svg";
 
 export const APP_FEATURE_DATA = {
   sectionTitle: {

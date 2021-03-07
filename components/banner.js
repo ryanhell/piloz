@@ -26,11 +26,11 @@ const Banner = () => {
                 <br />
                 Located in Lancaster, PA
               </p>
-              <a href="tel:267-777-2344" className="button pr-5">
-                <i className="fas fa-headset fa-3x"></i>
+              <a href="tel:267-777-2344" className="thm-btn">
+                <span><i className="fas fa-headset fa-2x thm-btn-span2">  CALL</i></span>
               </a>
-              <a href="mailto: ryanbrooklyn2020@gmail.com" className="button pl-3">
-                <i className="fas fa-keyboard fa-3x"></i>
+              <a href="mailto: ryanbrooklyn2020@gmail.com" className="thm-btn mx-1">
+               <span><i className="fas fa-keyboard fa-2x thm-btn-span2">   MAIL</i></span>
               </a>
             </div>
           </Col>
