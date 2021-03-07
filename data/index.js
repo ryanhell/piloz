@@ -8,25 +8,25 @@ export const SERVICE_DATA = {
       extraClassName: "",
       icon: "piloz-writing",
       title: "Visual",
-      text: "Visual / Spacial dominent."
+      text: "Visual / Spacial dominent. Enterprise level visual analst experience, as well as exhaustive experience working in 'design / iteration' workflow roles."
     },
     {
       extraClassName: "bg-2",
       icon: "piloz-shield",
       title: "Building",
-      text: "Experience in a variety of manufacturer and production environments."
+      text: "Experience in a variety of manufacturer and production environments. Primary trade skills are carpentry, and wood working, structural fabrication."
     },
     {
       extraClassName: "bg-3",
       icon: "piloz-user",
       title: "Manager",
-      text: "13 Years of aerospace / tech industry calibre project management experience."
+      text: "13 Years of aerospace / tech industry calibre project management experience as a stakeholder, collaborator, contributor, and manager. "
     },
     {
       extraClassName: "bg-4",
       icon: "piloz-gear",
       title: "Technical",
-      text: "I enjoy building, but I want to manage and improve projects now."
+      text: "I possess advanced technical skills and experience, training and have an interest in making things compliment each other work wise."
     }
   ]
 };

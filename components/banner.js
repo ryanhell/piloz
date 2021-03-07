@@ -15,7 +15,7 @@ const Banner = () => {
       ></div>
       <Container>
         <Row>
-          <Col xl={6} lg={6}>
+          <Col xl={5} lg={5}>
             <div className="banner-one__content">
               <h3>
                 Ryan Hell
@@ -26,23 +26,18 @@ const Banner = () => {
                 <br />
                 Located in Lancaster, PA
               </p>
-              <a href="tel:267-777-2344" className="thm-btn">
-                <span>Call</span>
+              <a href="tel:267-777-2344" className="button pr-5">
+                <i className="fas fa-headset fa-3x"></i>
               </a>
-              <a href="mailto: ryanbrooklyn2020@gmail.com" className="thm-btn">
-                <span>Call</span>
+              <a href="mailto: ryanbrooklyn2020@gmail.com" className="button pl-3">
+                <i className="fas fa-keyboard fa-3x"></i>
               </a>
             </div>
           </Col>
-          <Col xl={6} lg={6}>
+          <Col xl={7} lg={7}>
             <div className="banner-img wow fadeInUp" data-wow-duration="1500ms">
               <img src={bannerShape1} className="banner-image__curvs" alt="" />
-              <Connect />
-              <div>
-              
-              </div>
-              
-              
+              <Connect />             
             </div>
           </Col>
         </Row>

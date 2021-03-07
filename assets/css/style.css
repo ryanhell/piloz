@@ -104,7 +104,7 @@ li {
   line-height: 64px;
   position: relative;
   transition: all 0.4s ease;
-  background-color: var(--thm-base);
+  background-color: red !important;
   overflow: hidden;
 }
 
@@ -2909,11 +2909,10 @@ background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, F
 
 .mailchimp-one__form {
   background: #ffffff;
-  max-width: 970px;
   width: 100%;
-  margin: 0 auto;
-  border-radius: 100px;
-  padding: 38px 42px;
+  margin: 15px auto;
+  border-radius: 40px;
+  padding: 8px 4px;
 }
 
 .mailchimp-one__form input[type="text"] {
@@ -2922,7 +2921,7 @@ background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, F
   width: 100%;
   border: none;
   background: #eaeaea;
-  border-radius: 50px;
+  border-radius: 22px;
   padding: 0 25px;
 }
 

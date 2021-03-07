@@ -141,7 +141,7 @@ const Home = () => {
                     </div>
                     <div className='field is-grouped'>
                       <div className='control'>
-                      <button className="thm-btn mailchimp-one__btn" type="submit">
+                      <button className="mailchimp-one__btn thm-btn" type="submit">
                         <span>Send Now</span>
                       </button>
                       </div>
