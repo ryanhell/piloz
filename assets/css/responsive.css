@@ -1,8 +1,6 @@
-
-
-
-
-
+body {
+    background-color: black;
+}
 
 @media(max-width: 1199px) {
     .site-header-one .container-fluid {

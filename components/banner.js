@@ -42,15 +42,7 @@ const Banner = () => {
                 style={{ backgroundImage: `url(${bannerShape2})` }}
               ></div>
               <img src={image} alt="Banner-img" />
-              <div className="banner-icon-1">
-                <i className="piloz-lamp"></i>
-              </div>
-              <div className="banner-icon-2">
-                <i className="piloz-linked"></i>
-              </div>
-              <div className="banner-icon-3">
-                <i className="piloz-human-resources"></i>
-              </div>
+              
             </div>
           </Col>
         </Row>
