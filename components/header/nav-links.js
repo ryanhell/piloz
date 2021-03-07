@@ -48,21 +48,7 @@ const NavLinks = () => {
         >
           Projects
         </ScrollLink>
-        <button className="dropdown-btn" onClick={handleDropdownStatus}>
-          <i className="fa fa-angle-right"></i>
-        </button>
-        <ul className="dropdown-list">
-          <li>
-            <Link href="/blog">
-              <a>News</a>
-            </Link>
-          </li>
-          <li>
-            <Link href="/blog-details">
-              <a>News Details</a>
-            </Link>
-          </li>
-        </ul>
+        
       </li>
     </ul>
   );

@@ -1,4 +1,5 @@
 import React from "react";
+import Link from 'next/link'
 import { Row, Col, Container } from "react-bootstrap";
 import bgShape2 from "@images/swissArmy.png";
 import bannerBG from "@images/banner/banner-bg-1.png";
@@ -25,8 +26,11 @@ const Banner = () => {
                 <br />
                 Located in Lancaster, PA
               </p>
-              <a href="#" className="thm-btn">
-                <span>Contact</span>
+              <a href="tel:267-777-2344" className="thm-btn">
+                <span>Call</span>
+              </a>
+              <a href="mailto: ryanbrooklyn2020@gmail.com" className="thm-btn">
+                <span>eMail</span>
               </a>
             </div>
           </Col>
