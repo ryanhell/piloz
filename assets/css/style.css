@@ -49,7 +49,7 @@ font-family: 'Prata', serif;
 
 body {
   font-family: var(--thm-font);
-  color: #8d8d8d;
+  color: #050505;
   font-size: 18px;
   line-height: 36px;
   font-weight: 500;
@@ -150,14 +150,14 @@ li {
 /* block title */
 
 .block-title {
-  padding-bottom: 43px;
+  padding-bottom: 143px;
 }
 
 .block-title p {
   margin: 0;
   font-size: 20px;
   font-weight: 500;
-  color: var(--thm-primary);
+  color: rgb(58, 56, 56);
 }
 
 .block-title h3 {
@@ -755,8 +755,11 @@ li {
 .site-header-one {
   position: relative;
   border-bottom: 1px solid rgb(253, 4, 4);
-  background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgba(40,223,166,1) 100%);
+  background: #2193b0;  /* fallback for old browsers */
+  background: #16222A;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3A6073, #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 .site-header-one .container-fluid {
@@ -1403,7 +1406,7 @@ li {
 .banner-one {
   position: relative;
   display: block;
-  padding: 0 0 108px;
+  padding: 0px;
 }
 
 .banner-shape-1 {
@@ -1443,7 +1446,7 @@ li {
 }
 
 .banner-one__content h3 {
-  color: #e9f2e8a1;
+  color: #18569ca1;
   font-size: 90px;
   font-weight: 400;
   line-height: 105px;
