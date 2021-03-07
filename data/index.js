@@ -68,7 +68,7 @@ import appFeature1 from "@images/super.svg";
 
 export const APP_FEATURE_DATA = {
   sectionTitle: {
-    title: "Unload More Back Office and Field Work",
+    title: "Offload More Back Office and Field Work",
     text: "Get back to sales and growing your business."
   },
   image: appFeature1,

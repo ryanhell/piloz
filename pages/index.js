@@ -24,9 +24,7 @@ const HomeOne = () => {
       <ServicesHome />
       <CallToAction />
       <Video />
-      <AppFeature />
-      <TestimonialsHome />
-      
+      <AppFeature />      
       <FAQ />
       <BlogHome />
       <Brands />
