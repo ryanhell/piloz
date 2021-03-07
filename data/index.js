@@ -76,7 +76,7 @@ export const APP_FEATURE_DATA = {
     "More than a carpenter, and tradesman.",
   options: [
     {
-      label: "Fully trained MS Office, Visio, MS Project, Gantt."
+      label: "Fluent with MS Office, Visio, MS Project, Gantt."
     },
     {
       label: "Reliable, punctual, fair."
@@ -363,8 +363,8 @@ export const FAQ_DATA = {
 };
 
 import blog1 from "@images/portfolio/portico1.jpg";
-import blog2 from "@images/blog/blog-2-2.jpg";
-import blog3 from "@images/blog/blog-2-3.jpg";
+import blog2 from "@images/drywall.jpg";
+import blog3 from "@images/cabinets.jpg";
 import blog4 from "@images/blog/blog-2-4.jpg";
 import blog5 from "@images/blog/blog-2-5.jpg";
 import blog6 from "@images/blog/blog-2-6.jpg";
@@ -391,7 +391,7 @@ export const BLOG_DATA = {
       image: blog2,
       date: "20 May, 2020",
       commentCount: "2",
-      title: "Launch New Mobile Marketing Pitfalls",
+      title: "Working with retail crews",
       text:
         "There are many people variation of passages of lorem Ipsum available in the majority sed do eius.",
       link: {

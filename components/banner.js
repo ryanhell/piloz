@@ -1,11 +1,11 @@
 import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
-import bgShape1 from "@images/animals.png";
+import bgShape1 from "@images/waves.jpg";
 import bgShape2 from "@images/swissArmy.png";
 import bannerBG from "@images/banner/banner-bg-1.png";
 import bannerShape1 from "@images/shapes/banner-1-1.png";
 import bannerShape2 from "@images/banner/banner-shape-1-4.png";
-import image from "@images/bigfoot.png";
+import image from "@images/astronaut.svg";
 
 const Banner = () => {
   return (
