@@ -26,7 +26,7 @@ export const SERVICE_DATA = {
       extraClassName: "bg-4",
       icon: "piloz-gear",
       title: "Technical",
-      text: "I possess advanced technical skills and experience, training and have an interest in making things compliment each other work wise."
+      text: "Advanced technical skills and experience, training and have an interest in making things compliment each other work wise."
     }
   ]
 };
