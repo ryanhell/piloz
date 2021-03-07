@@ -58,7 +58,11 @@ const Header = () => {
           <div className="main-nav__main-navigation">
             <NavLinks />
           </div>
-         
+          <div className="main-nav__right">
+            <a href="#" className="thm-btn">
+              <span>Download Resume</span>
+            </a>
+          </div>
         </Container>
       </header>
 
@@ -78,7 +82,6 @@ const Header = () => {
           <div className="main-nav__main-navigation">
             <NavLinks />
           </div>
-          
         </Container>
       </header>
     </>

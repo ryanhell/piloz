@@ -30,7 +30,7 @@ const Banner = () => {
                 <span>Call</span>
               </a>
               <a href="mailto: ryanbrooklyn2020@gmail.com" className="thm-btn">
-                <span>eMail</span>
+                <span>Call</span>
               </a>
             </div>
           </Col>

@@ -391,9 +391,9 @@ export const BLOG_DATA = {
       image: blog2,
       date: "20 May, 2020",
       commentCount: "2",
-      title: "Working with retail crews",
+      title: "Commercial Work",
       text:
-        "There are many people variation of passages of lorem Ipsum available in the majority sed do eius.",
+        "Tenant fitout, tenant tearout, tenant improvement, retail, and shopfitting.",
       link: {
         path: "/blog-details",
         label: "Read More"
@@ -403,9 +403,9 @@ export const BLOG_DATA = {
       image: blog3,
       date: "20 May, 2020",
       commentCount: "2",
-      title: "Bring to the table win-win survival",
+      title: "Capable Millwork",
       text:
-        "There are many people variation of passages of lorem Ipsum available in the majority sed do eius.",
+        "Experienced eye for detail, passionate about building better for less.",
       link: {
         path: "/blog-details",
         label: "Read More"
